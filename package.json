@@ -11,7 +11,7 @@
     ]
   },
   "dependencies": {
-    "get-pixels": "^3.3.0",
+    "get-pixels": "^3.3.2",
     "mocha-multi": "^1.0.1",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
