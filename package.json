@@ -11,11 +11,11 @@
     ]
   },
   "dependencies": {
-    "get-pixels": "^3.3.0",
-    "mocha-multi": "^1.0.1",
-    "react": "^16.4.1",
-    "react-dom": "^16.4.1",
-    "react-scripts": "1.1.4",
+    "get-pixels": "^3.3.3",
+    "mocha-multi": "^1.1.7",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-scripts": "1.1.5",
     "webpack": "^3.11.0"
   },
   "scripts": {
